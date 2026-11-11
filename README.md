@@ -17,8 +17,6 @@ See the pinned repositories below. Each one has a README with what it does and h
 
 ## Links
 
-- LinkedIn: **[TODO: LinkedIn URL]**
-- Website: **[TODO: personal website URL]**
 - GitHub: [github.com/radim225](https://github.com/radim225)
 
 <p>
