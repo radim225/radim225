@@ -13,7 +13,11 @@ I build data and AI tools end-to-end: pipelines that collect and clean data, sma
 
 ## Featured projects
 
-See the pinned repositories below. Each one has a README with what it does and how it is built.
+- [portfolio-tracker](https://github.com/radim225/portfolio-tracker) – automatic Trading 212 portfolio dashboard: nightly API sync to Postgres, Next.js dashboard on Vercel.
+- [hackathon-geo](https://github.com/radim225/hackathon-geo) – hackathon project: corporate mobility platform comparing routes, CO2 and cost (Next.js, Google Maps).
+- [interview-analyzer](https://github.com/radim225/interview-analyzer) – Streamlit app that scores interview answers with Azure AI Language.
+
+Each repository has a README with what it does and how it is built.
 
 ## Links
 
